@@ -6,7 +6,8 @@ a:hover, a:focus {outline:inherit}
 
 .navbar-collapse {border:none; box-shadow: none;}
 
-.header-main {background-attachment: fixed; background-color: rgb(13, 17, 23); position: relative; min-height: 988px;/*background-image: url("../img/header-bj1.png"); min-height: 690px; padding-bottom: 102px; background-position: 50% 100%; background-repeat: no-repeat; background-size: cover; box-shadow: -6px 0 0 0 rgb(0, 0, 0); position: relative; transform: rotate(0deg) scale(1) translate(0%, 0%); transition: all 2s ease 0s;*/}
+
+.header-main {background-attachment: fixed; background-color: rgb(22, 24, 35); background-size: cover; position: relative; min-height: 988px; background-repeat: no-repeat;}
 
 .header-section {padding-left:0; padding-right:0;}
 
@@ -19,6 +20,8 @@ a:hover, a:focus {outline:inherit}
 
 .white-background {background-color: rgb(255, 255, 255);}
 
+.dark-background {background-color: rgb(13, 17, 23);}
+
 .autonomousdriving-background {background-color: rgb(34, 27, 45);  /*background-image: url("../img/intro-bg-mtn.png"); height:500px;*/}
 
 .videoimage-background {background-color: rgb(23, 63, 63); /*background-image: url("../img/contact-bg.png"); height:500px;*/}
@@ -29,9 +32,9 @@ a:hover, a:focus {outline:inherit}
 
 .service-background {background-color: rgb(46, 30, 6); /*background-image: url("../img/News.jpg"); height:500px;*/}
 
-.navbar-brands { background-color: transparent; border-bottom:1px solid rgba(255, 255, 255, 0.15); border-radius: 0; z-index: 5; padding:20px 30px;}
+.navbar-brands {background-color: transparent; border-bottom:1px solid rgba(255, 255, 255, 0.15); border-radius: 0; z-index: 5; padding:20px 30px;}
 
-.navbar-logo { background-image: url("../icon/logo1.png");  background-position: 50% 50%; background-repeat: no-repeat; background-size: contain; width: 150px;}
+.navbar-logo {background-image: url("../icon/logo1.png");  background-position: 50% 50%; background-repeat: no-repeat; background-size: contain; width: 150px;}
 
 .navbar-default .navbar-nav > li > a {color:#fff;}
 
@@ -41,9 +44,9 @@ a:hover, a:focus {outline:inherit}
 
 .container-zindex {z-index:9999; position:relative;}
 
-.img-responsive {display: block; height: auto; max-width: 100%; z-index:999;}
+.img-responsive {display: block; height: auto;  max-width: 100%;  z-index:999;}
 
-.container-zindex h1 {color:#fff; font-weight:bold; margin:0; font-size:60px; letter-spacing:3px;}
+.container-zindex h1 {color:#fff; font-weight:bold;  margin:0; font-size:60px; letter-spacing:3px; }
 
 .container-index h1 {text-align:center; font-size:50px;}
 
